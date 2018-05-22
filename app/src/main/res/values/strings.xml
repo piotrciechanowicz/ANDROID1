@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KURS_ANDROID_1</string>
+    <string name="sumButton"> + </string>
+    <string name="rButton"> - </string>
+    <string name="clearButton2"> USUŃ </string>
+    <string name="firstNumber"> Podaj pierwszą liczbę </string>
+    <string name="lastNumber"> Podaj drugą liczbę </string>
+</resources>
+
